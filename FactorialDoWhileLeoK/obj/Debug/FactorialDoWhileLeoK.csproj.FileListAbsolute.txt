@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialDoWhileLeoK\FactorialDoWhileLeoK\bin\Debug\FactorialDoWhileLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialDoWhileLeoK\FactorialDoWhileLeoK\bin\Debug\FactorialDoWhileLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialDoWhileLeoK\FactorialDoWhileLeoK\bin\Debug\FactorialDoWhileLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialDoWhileLeoK\FactorialDoWhileLeoK\obj\Debug\FactorialDoWhileLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialDoWhileLeoK\FactorialDoWhileLeoK\obj\Debug\FactorialDoWhileLeoK.frmFactorialDoWhileLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialDoWhileLeoK\FactorialDoWhileLeoK\obj\Debug\FactorialDoWhileLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialDoWhileLeoK\FactorialDoWhileLeoK\obj\Debug\FactorialDoWhileLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialDoWhileLeoK\FactorialDoWhileLeoK\obj\Debug\FactorialDoWhileLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\FactorialDoWhileLeoK\FactorialDoWhileLeoK\obj\Debug\FactorialDoWhileLeoK.pdb
